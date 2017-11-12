@@ -1,0 +1,5 @@
+Added images folder
+put Facebook button image into images folder
+edited CSS to use facebook button, twittebuton and email button - lines 36 onwards of the gmail style
+bellesoflondoncity@hotmail.com changed to bellesoflondoncity@gmail.com
+
